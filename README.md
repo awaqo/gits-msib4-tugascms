@@ -1,23 +1,23 @@
 ## Nama
-Aqil Jawadal Furqon
+- Aqil Jawadal Furqon
 
 ## Asal Perguruan Tingi
-Institut Teknologi Telkom Purwokerto
+- Institut Teknologi Telkom Purwokerto
 
 ## Tech Stack yang dipakai
-Pada pengembangan website ini saya menggunakan [TailwindCSS](https://tailwindcss.com/) sebagai framework CSS dalam pembuatan UI.
-Sedangkan untuk authentication saya hanya menggunakan fitur dari [Laravel](https://laravel.com/)
+- Pada pengembangan website ini saya menggunakan [TailwindCSS](https://tailwindcss.com/) sebagai framework CSS dalam pembuatan UI.
+- Sedangkan untuk authentication saya hanya menggunakan fitur dari [Laravel](https://laravel.com/)
 
 ## Cara menjalankan Aplikasi
-- Setelah Clone repo ini, Anda bisa buka CMD di directory project laravel yang sudah diclone atau bisa langsung membuka project di VS Code
+- Setelah Clone repo ini, Anda bisa buka `CMD` di directory project laravel yang sudah diclone atau bisa langsung membuka project di `VS Code`
 - Jalankan 
 ```java
 composer install
 ```
 
-- Selanjutnya copy & paste file .env.example, kemudian ubah nama file menjadi .env
+- Selanjutnya copy & paste file `.env.example` kemudian ubah nama file menjadi `.env`
 
-- Setelah ada file .env, jalankan perintah
+- Setelah ada file `.env` jalankan perintah
 ```java
 php artisan key:generate
 ```
